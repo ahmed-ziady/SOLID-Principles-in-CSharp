@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NoteBook\\source\\repos\\Solid Principles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D0176B-B85D-41BA-8EC5-6522774EFB14}|SRP.csproj|c:\\users\\notebook\\source\\repos\\solid principles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D0176B-B85D-41BA-8EC5-6522774EFB14}|SRP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D0176B-B85D-41BA-8EC5-6522774EFB14}|SRP.csproj|c:\\users\\notebook\\source\\repos\\solid principles\\violation\\bankaccount_violation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D0176B-B85D-41BA-8EC5-6522774EFB14}|SRP.csproj|solutionrelative:violation\\bankaccount_violation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D0176B-B85D-41BA-8EC5-6522774EFB14}|SRP.csproj|c:\\users\\notebook\\source\\repos\\solid principles\\refactored\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D0176B-B85D-41BA-8EC5-6522774EFB14}|SRP.csproj|solutionrelative:refactored\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D0176B-B85D-41BA-8EC5-6522774EFB14}|SRP.csproj|c:\\users\\notebook\\source\\repos\\solid principles\\refactored\\statementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D0176B-B85D-41BA-8EC5-6522774EFB14}|SRP.csproj|solutionrelative:refactored\\statementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatementPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\NoteBook\\source\\repos\\Solid Principles\\Refactored\\StatementPrinter.cs",
+              "RelativeDocumentMoniker": "Refactored\\StatementPrinter.cs",
+              "ToolTip": "C:\\Users\\NoteBook\\source\\repos\\Solid Principles\\Refactored\\StatementPrinter.cs",
+              "RelativeToolTip": "Refactored\\StatementPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:02:32.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\NoteBook\\source\\repos\\Solid Principles\\Refactored\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Refactored\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\NoteBook\\source\\repos\\Solid Principles\\Refactored\\BankAccount.cs",
+              "RelativeToolTip": "Refactored\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:51:33.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount_Violation.cs",
+              "DocumentMoniker": "C:\\Users\\NoteBook\\source\\repos\\Solid Principles\\Violation\\BankAccount_Violation.cs",
+              "RelativeDocumentMoniker": "Violation\\BankAccount_Violation.cs",
+              "ToolTip": "C:\\Users\\NoteBook\\source\\repos\\Solid Principles\\Violation\\BankAccount_Violation.cs",
+              "RelativeToolTip": "Violation\\BankAccount_Violation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:40:32.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NoteBook\\source\\repos\\Solid Principles\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\NoteBook\\source\\repos\\Solid Principles\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:34:08.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

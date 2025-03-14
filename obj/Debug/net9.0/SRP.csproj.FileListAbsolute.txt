@@ -1,0 +1,14 @@
+C:\Users\NoteBook\source\repos\Solid Principles\bin\Debug\net9.0\SRP.exe
+C:\Users\NoteBook\source\repos\Solid Principles\bin\Debug\net9.0\SRP.deps.json
+C:\Users\NoteBook\source\repos\Solid Principles\bin\Debug\net9.0\SRP.runtimeconfig.json
+C:\Users\NoteBook\source\repos\Solid Principles\bin\Debug\net9.0\SRP.dll
+C:\Users\NoteBook\source\repos\Solid Principles\bin\Debug\net9.0\SRP.pdb
+C:\Users\NoteBook\source\repos\Solid Principles\obj\Debug\net9.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoteBook\source\repos\Solid Principles\obj\Debug\net9.0\SRP.AssemblyInfoInputs.cache
+C:\Users\NoteBook\source\repos\Solid Principles\obj\Debug\net9.0\SRP.AssemblyInfo.cs
+C:\Users\NoteBook\source\repos\Solid Principles\obj\Debug\net9.0\SRP.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\source\repos\Solid Principles\obj\Debug\net9.0\SRP.dll
+C:\Users\NoteBook\source\repos\Solid Principles\obj\Debug\net9.0\refint\SRP.dll
+C:\Users\NoteBook\source\repos\Solid Principles\obj\Debug\net9.0\SRP.pdb
+C:\Users\NoteBook\source\repos\Solid Principles\obj\Debug\net9.0\SRP.genruntimeconfig.cache
+C:\Users\NoteBook\source\repos\Solid Principles\obj\Debug\net9.0\ref\SRP.dll
